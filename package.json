@@ -1,0 +1,13 @@
+{
+  "name": "logshield",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Review and redact secrets from text and JSON, locally in your browser.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
