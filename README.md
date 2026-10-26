@@ -4,7 +4,7 @@
 
 Review and redact credentials from text and JSON **locally in your browser**. No uploads, accounts, dependencies, or build step.
 
-[Español](README.es.md) · [Getting started](#run-locally) · [Detection rules](#what-it-detects) · [Privacy](#privacy-and-limits) · [Contributing](CONTRIBUTING.md)
+[Live demo](https://0xsixtos.github.io/logshield/) · [Español](README.es.md) · [Getting started](#run-locally) · [Detection rules](#what-it-detects) · [Privacy](#privacy-and-limits) · [Contributing](CONTRIBUTING.md)
 
 ![LogShield interface preview](docs/preview.svg)
 

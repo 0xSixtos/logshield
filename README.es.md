@@ -4,7 +4,7 @@
 
 Revisa y censura credenciales en archivos de texto y JSON **dentro de tu navegador**. Sin subidas, cuentas, dependencias ni compilación.
 
-[English](README.md) · [Reglas del detector](dist/detector.js) · [Contribuir](CONTRIBUTING.md)
+[Demo en vivo](https://0xsixtos.github.io/logshield/) · [English](README.md) · [Reglas del detector](dist/detector.js) · [Contribuir](CONTRIBUTING.md)
 
 ![Vista de LogShield](docs/preview.svg)
 
